@@ -1,0 +1,8 @@
+H:\MyWorkSpace\TestNeo4j\TestNeo4j\bin\Debug\TestNeo4j.exe.config
+H:\MyWorkSpace\TestNeo4j\TestNeo4j\bin\Debug\TestNeo4j.exe
+H:\MyWorkSpace\TestNeo4j\TestNeo4j\bin\Debug\TestNeo4j.pdb
+H:\MyWorkSpace\TestNeo4j\TestNeo4j\bin\Debug\Neo4j.Driver.dll
+H:\MyWorkSpace\TestNeo4j\TestNeo4j\bin\Debug\Neo4j.Driver.xml
+H:\MyWorkSpace\TestNeo4j\TestNeo4j\obj\Debug\TestNeo4j.csprojResolveAssemblyReference.cache
+H:\MyWorkSpace\TestNeo4j\TestNeo4j\obj\Debug\TestNeo4j.exe
+H:\MyWorkSpace\TestNeo4j\TestNeo4j\obj\Debug\TestNeo4j.pdb

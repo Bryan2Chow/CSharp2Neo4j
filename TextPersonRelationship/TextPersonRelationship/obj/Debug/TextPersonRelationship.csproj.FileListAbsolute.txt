@@ -1,0 +1,11 @@
+H:\MyWorkSpace\TextPersonRelationship\TextPersonRelationship\bin\Debug\TextPersonRelationship.exe.config
+H:\MyWorkSpace\TextPersonRelationship\TextPersonRelationship\bin\Debug\TextPersonRelationship.exe
+H:\MyWorkSpace\TextPersonRelationship\TextPersonRelationship\bin\Debug\TextPersonRelationship.pdb
+H:\MyWorkSpace\TextPersonRelationship\TextPersonRelationship\bin\Debug\Neo4j.Driver.dll
+H:\MyWorkSpace\TextPersonRelationship\TextPersonRelationship\bin\Debug\Neo4j.Driver.xml
+H:\MyWorkSpace\TextPersonRelationship\TextPersonRelationship\obj\Debug\TextPersonRelationship.csprojResolveAssemblyReference.cache
+H:\MyWorkSpace\TextPersonRelationship\TextPersonRelationship\obj\Debug\TextPersonRelationship.Form1.resources
+H:\MyWorkSpace\TextPersonRelationship\TextPersonRelationship\obj\Debug\TextPersonRelationship.Properties.Resources.resources
+H:\MyWorkSpace\TextPersonRelationship\TextPersonRelationship\obj\Debug\TextPersonRelationship.csproj.GenerateResource.Cache
+H:\MyWorkSpace\TextPersonRelationship\TextPersonRelationship\obj\Debug\TextPersonRelationship.exe
+H:\MyWorkSpace\TextPersonRelationship\TextPersonRelationship\obj\Debug\TextPersonRelationship.pdb
